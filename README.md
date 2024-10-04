@@ -2,7 +2,7 @@
 This project is a Next.js application designed for selecting vehicles based on make and model year. The application features a filter page for selecting vehicle makes and a results page displaying the corresponding vehicle models. With an emphasis on user experience, it uses Tailwind CSS for styling.
 
 <p align="center">
-  <img src="https://prnt.sc/5Jj3Y6qwcllF" alt="Car Dealer App Demo" width="830"/>
+  <img src="./readme_img/YoNbJmyPQe223JGshdQe3Q.webp" alt="Car Dealer App Demo" width="830"/>
 </p>
 
 ## 🚗 Features:

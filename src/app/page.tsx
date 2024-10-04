@@ -32,7 +32,7 @@ export default function Home() {
     <main
       className="h-screen w-full"
       style={{
-        backgroundImage: "url('/images/Homepage.avif')",
+        backgroundImage: "url('/images/homepage.avif')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
